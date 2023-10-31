@@ -1,0 +1,27 @@
+.Slot{
+    border-radius: 20px;
+    background-color:rgba(246, 228, 112, 0.673);
+    border: 2px solid rgb(255, 166, 0);
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+button{ 
+    display: inline-block;
+    outline: 0;
+    border: 0;
+    cursor: pointer;
+    background-color: #f5b775;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-size: 16px;
+    border-bottom: 4px solid #c58138;
+    font-weight: 700;
+    color: rgb(36, 30, 39);
+    line-height: 26px;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 30px;
+    color: #122330;
+}
